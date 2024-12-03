@@ -1,0 +1,38 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color: blue;
+    text-decoration: underline;
+    text-transform: uppercase;
+.forms{ 
+    background-color: lightcoral
+    text-align: justify;
+    font-size: 10px;
+    margin-left: 25px;
+    display: block;
+}
+
+} 
+.first {
+   font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: green;
+    font-weight: bold;
+}
+.second, .third {
+
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: green;
+    font-weight: bold;
+}
+#submit {
+color: blue;
+margin-top: 30px;
+border-radius: 5px;
+background-color: pink;
+
+}
+    
+
